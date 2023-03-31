@@ -1,6 +1,6 @@
 Name:		texlive-cntperchap
 Version:	37572
-Release:	1
+Release:	2
 Summary:	Store counter values per chapter
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/cntperchap
