@@ -3,7 +3,7 @@ Version:	37572
 Release:	2
 Summary:	Store counter values per chapter
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/cntperchap
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/cntperchap
 License:	lppl1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/cntperchap.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/cntperchap.doc.r%{version}.tar.xz
